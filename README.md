@@ -29,7 +29,6 @@ The rule is that you should determine the basket shipment size depending on how 
 | SMALL   | SMALL   | SMALL   | SMALL   | SMALL   | MEDIUM |
 | SMALL   | SMALL   | MEDIUM  | MEDIUM  | LARGE   | LARGE  |
 | SMALL   | MEDIUM  |         |         |         | MEDIUM |
-| SMALL   | MEDIUM  |         |         |         | MEDIUM |
 | SMALL   | MEDIUM  | MEDIUM  |         |         | MEDIUM |
 | MEDIUM  | MEDIUM  |         |         |         | MEDIUM |
 | MEDIUM  | MEDIUM  | MEDIUM  |         |         | LARGE  |
