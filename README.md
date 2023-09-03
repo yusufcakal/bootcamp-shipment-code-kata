@@ -36,7 +36,6 @@ The rule is that you should determine the basket shipment size depending on how 
 | MEDIUM  | LARGE   |         |         |         | LARGE  |
 | MEDIUM  | MEDIUM  | LARGE   |         |         | LARGE  |
 | MEDIUM  | LARGE   | LARGE   |         |         | LARGE  |
-| MEDIUM  | LARGE   | LARGE   |         |         | LARGE  |
 | X_LARGE | X_LARGE | X_LARGE |         |         | X_LARGE|
 | LARGE   | LARGE   | LARGE   |         |         | X_LARGE|
 
